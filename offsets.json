@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updated": "2026-10-16",
+  "modules": {
+    "dwEntityList":           "0x271A908",
+    "dwLocalPlayerController":"0x253CB78",
+    "dwViewMatrix":           "0x256B020",
+    "dwGameTypes":            "0x1B0FD0",
+    "dwGameTypes_mapName_ptr":"0x120",
+    "dwGameTypes_mapName_off":"0x4"
+  },
+  "netvars": {
+    "m_iHealth":              "0x34C",
+    "m_iTeamNum":             "0x3E7",
+    "m_vOldOrigin":           "0x14A4",
+    "m_vecViewOffset":        "0xF60",
+    "m_angEyeAngles":         "0x3600",
+    "m_fFlags":               "0x3F4",
+    "m_hPlayerPawn":          "0x92C",
+    "m_sSanitizedPlayerName": "0x878",
+    "m_iIDEntIndex":          "0x36DC"
+  },
+  "constants": {
+    "entityIdentitySize":     "0x70",
+    "entityIdentityOffset":   "0x10"
+  }
+}
